@@ -7,7 +7,7 @@
 
 <body bgcolor="#170D0B">
 <center>
-<h2> <font color="#160B17"> Welcome TO KartikeyaSoft DevOps Training  </font> </h2>
+<h2> <font color="#E3EDEE"> Welcome TO KartikeyaSoft DevOps Training  </font> </h2>
 </center>	
 </body>
 </html>
