@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body bgcolor="#E7111A">
+<body bgcolor="#170D0B">
 <center>
-<h2> <font color="#FCFCFC"> Welcome TO KartikeyaSoft DevOps Training  </font> </h2>
+<h2> <font color="#160B17"> Welcome TO KartikeyaSoft DevOps Training  </font> </h2>
 </center>	
 </body>
 </html>
